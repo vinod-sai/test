@@ -4,7 +4,7 @@ void setup() {
   Serial.begin(9600);
   Serial.println("DHTxx test!");
   pinMode(D2, OUTPUT);
-  
+  //master
 }
 int v;
  
